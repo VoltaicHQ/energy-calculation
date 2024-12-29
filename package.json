@@ -1,6 +1,6 @@
 {
   "name": "energy-calculation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utils and documentation for calculating energy on Voltaic benchmarks",
   "main": "dist/index.js",
   "scripts": {
