@@ -1,0 +1,26 @@
+{
+  "name": "energy-calculation",
+  "version": "1.0.0",
+  "description": "Utils and documentation for calculating energy on Voltaic benchmarks",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VoltaicHQ/energy-calculation.git"
+  },
+  "keywords": [
+    "voltaic"
+  ],
+  "author": "Slipn3r <61992469+Slipn3r@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VoltaicHQ/energy-calculation/issues"
+  },
+  "homepage": "https://github.com/VoltaicHQ/energy-calculation#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  }
+}
